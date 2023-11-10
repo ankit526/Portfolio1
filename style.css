@@ -1,0 +1,19 @@
+*{
+    color: white;
+}
+body{
+    background-color: rgb(49, 49, 49);
+}
+.fdiv{
+    color: white;
+}
+.fsize{
+    padding-right: 200px;
+    font-size: large;
+}
+.bg-light-black {
+    background-color: #333; /* You can adjust the color code for the desired shade */
+  }
+.height-full{
+    height: 90vh;
+}
